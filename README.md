@@ -1,5 +1,8 @@
 # Setup Instructions
 
+- **Vist my atrticels on medium**
+https://medium.com/@vino7tech/employee-profile-management-system-with-react-typescript-tailwind-css-spring-boot-jpa-and-8869a6ca946b
+
 ## Backend
 
 - **Ensure MySQL is installed and running.**
